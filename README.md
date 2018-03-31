@@ -1,0 +1,2 @@
+# Clothing-Category-prediction-
+Adopted Fashion-MNIST dataset to train a model to predict the category of a clothing using labelled image of varities of clothing, used Scikit learn to apply machine learning technique (Decision Tree, random Forset Esemble method, Gradient Boosting, Logistic Regression, KNN, Multi Layer Perceptron) compare the accuracy of each model, then apply the model with best accuracy on test data to  precdict the category of a clothing.
